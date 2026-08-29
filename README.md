@@ -68,10 +68,7 @@
 
 ### Encryption Output
 
-<div align="center">
-  <img src="Screenshot%20From%202026-08-29%2006-51-53.png" alt="RC4 Encryptor Output" width="800"/>
-  <br>
-  <em>RC4 Encryptor CLI output showing file encryption with hex dump preview</em>
-</div>
+
+<img width="1485" height="751" alt="Screenshot From 2026-08-29 06-51-53" src="https://github.com/user-attachments/assets/7b29f007-764b-4a47-9ca6-d3b7dcf90d61" />
 
 **Output Details:**
