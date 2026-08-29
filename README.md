@@ -8,8 +8,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 [![Educational](https://img.shields.io/badge/Purpose-Educational-blueviolet?style=for-the-badge)](https://github.com)
-[![Code Size](https://img.shields.io/github/languages/code-size/yourusername/rc4-encryptor?style=for-the-badge)](https://github.com/yourusername/rc4-encryptor)
-[![Stars](https://img.shields.io/github/stars/yourusername/rc4-encryptor?style=for-the-badge)](https://github.com/yourusername/rc4-encryptor/stargazers)
 
 > **A modern C++ implementation of the RC4 stream cipher for file encryption and decryption.**  
 > *Built for educational purposes and authorized security training.*
@@ -67,5 +65,13 @@
 
 ## 📸 Screenshot
 
+
 ### Encryption Output
 
+<div align="center">
+  <img src="Screenshot%20From%202026-08-29%2006-51-53.png" alt="RC4 Encryptor Output" width="800"/>
+  <br>
+  <em>RC4 Encryptor CLI output showing file encryption with hex dump preview</em>
+</div>
+
+**Output Details:**
