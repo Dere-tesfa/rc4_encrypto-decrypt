@@ -66,3 +66,6 @@ make decrypt  # or: g++ -std=c++17 -o rc4_decryptor rc4_decryptor.cpp
 # Run
 ./rc4_encryptor file.txt "mysecretkey"
 ./rc4_decryptor file.txt "mysecretkey" restored.txt
+
+
+<img width="1485" height="751" alt="Screenshot From 2026-08-29 06-51-53" src="https://github.com/user-attachments/assets/25cd2789-25e8-4206-a61a-d5f432d08595" />
