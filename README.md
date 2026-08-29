@@ -68,8 +68,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rc4-encryptor.git
-cd rc4-encryptor
+git clone https://github.com/Dere-tesfa/rc4_encrypto-decrypt.git
+cd rc4_encrypto-decrypt
 
 # Compile
 make          # or: g++ -std=c++17 -o rc4_encryptor rc4_encryptor.cpp
