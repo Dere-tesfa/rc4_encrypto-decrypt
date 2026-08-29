@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🗡️ ORDOVAS SHADOW TILES
 
 ## 🔐 RC4 File Encryptor & Decryptor
 
@@ -19,7 +18,7 @@
 
 ## 📖 Overview
 
-**ORDOVAS SHADOW TILES** provides two command-line tools that demonstrate the **RC4 stream cipher** by encrypting and decrypting files. This project is designed for students and security enthusiasts to understand how symmetric stream ciphers work in practice.
+ provides two command-line tools that demonstrate the **RC4 stream cipher** by encrypting and decrypting files. This project is designed for students and security enthusiasts to understand how symmetric stream ciphers work in practice.
 
 | Tool | Description |
 |------|-------------|
