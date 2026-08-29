@@ -49,6 +49,32 @@
 
 <img width="1485" height="751" alt="Screenshot From 2026-08-29 06-51-53" src="https://github.com/user-attachments/assets/7b29f007-764b-4a47-9ca6-d3b7dcf90d61" />
 
+
 ### Decryption Output
 <img width="1200" height="847" alt="Screenshot From 2026-08-29 07-16-52" src="https://github.com/user-attachments/assets/85e68852-b6f5-48db-bcec-850893c9232c" />
 
+
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- **C++17 compiler** (GCC 7+, Clang 5+, or MSVC 2017+)
+- **No external dependencies** – uses only the standard library
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/rc4-encryptor.git
+cd rc4-encryptor
+
+# Compile
+make          # or: g++ -std=c++17 -o rc4_encryptor rc4_encryptor.cpp
+make decrypt  # or: g++ -std=c++17 -o rc4_decryptor rc4_decryptor.cpp
+
+# Run
+./rc4_encryptor test1.txt "dere123"
+./rc4_decryptor test1.txt "dere123" restored.txt
