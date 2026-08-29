@@ -16,27 +16,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Screenshot](#-screenshot)
-- [Quick Start](#-quick-start)
-- [Usage](#-usage)
-- [Architecture](#-architecture)
-- [Project Structure](#-project-structure)
-- [Building from Source](#-building-from-source)
-- [Testing](#-testing)
-- [Contributing](#-contributing)
-- [Development Guidelines](#-development-guidelines)
-- [Security Disclaimer](#-security-disclaimer)
-- [Educational Purpose](#-educational-purpose)
-- [Resources](#-resources)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
-- [Contact](#-contact)
-
----
 
 ## 📖 Overview
 
@@ -49,17 +28,17 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
-| 🚀 **Full RC4 Implementation** | KSA + PRGA with proper byte-wise encryption |
-| 📁 **Any File Support** | Works with text, binary, images, and more |
-| 🎨 **Beautiful CLI Output** | Colored tables, hex dumps, and progress indicators |
-| 🔍 **Readability Check** | Automatically detects if decryption key is wrong |
-| 📊 **Hex Preview** | Shows encrypted data in hexadecimal format |
-| ⚡ **Cross-Platform** | Works on Linux, macOS, and Windows |
-| 📝 **Educational Focus** | Clean, well-documented code for learning |
+|  **Full RC4 Implementation** | KSA + PRGA with proper byte-wise encryption |
+|  **Any File Support** | Works with text, binary, images, and more |
+|  **Beautiful CLI Output** | Colored tables, hex dumps, and progress indicators |
+|  **Readability Check** | Automatically detects if decryption key is wrong |
+|  **Hex Preview** | Shows encrypted data in hexadecimal format |
+|  **Cross-Platform** | Works on Linux, macOS, and Windows |
+|  **Educational Focus** | Clean, well-documented code for learning |
 
 ---
 
